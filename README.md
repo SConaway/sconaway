@@ -4,4 +4,4 @@
 
 Hi there, I'm Steven, an aspiring computer scientist and electrical engineer currently seeking opportunities in these fields.
 
-Check out my [Resume at stevenconaway.me](stevenconaway.me) for more information.
+Check out my [resume at stevenconaway.me](stevenconaway.me) for more information.
