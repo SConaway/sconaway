@@ -7,15 +7,17 @@
 
 Hi there, I'm Steven, an aspiring computer scientist and electrical engineer currently seeking opportunities in these fields.
 
-📚 Skills: JavaScript (ES2020), HTML5, CSS3, React, React Native, Python, Arduino
+[![SConaway's github stats](https://github-readme-stats.vercel.app/api?username=sconaway&count_private=true&show_icons=true&theme=dark)](https://github.com/sconaway)
 
-🔧 Tools I use: VSCode, Git, iTerm
+- 📚 Skills: JavaScript (ES2020), HTML5, CSS3, React, React Native, Python, Arduino
+- 🔧 Tools I use: VSCode, Git, iTerm
+- 📖 I'm currently learning: TypeScript
 
-📖 I'm currently learning: TypeScript
+📊 What I do:
+
+[![SConaway's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sconaway&count_private=true&show_icons=true&theme=dark&hide=c%2B%2B)](https://github.com/sconaway)
 
 Check out my [resume at stevenconaway.me](https://stevenconaway.me) for more information.
 
 👈 Contact me: Don't hesitate to reach out!
 
-📊 What I do:
-<--- Wakapi data goes here --->
