@@ -16,3 +16,6 @@ Hi there, I'm Steven, an aspiring computer scientist and electrical engineer cur
 Check out my [resume at stevenconaway.me](https://stevenconaway.me) for more information.
 
 👈 Contact me: Don't hesitate to reach out!
+
+📊 What I do:
+<--- Wakapi data goes here --->
