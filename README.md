@@ -27,7 +27,7 @@ Hi there, I'm Steven, an aspiring computer scientist and electrical engineer cur
 - TypeScript
 - InfluxDB
 
-:chart_with_upwards_trend: What I do:
+### :chart_with_upwards_trend: What I do:
 
 I mainly work with JavaScript creating frontends and servers and Python and C++ for physical projects based on Raspberry Pi and Arduino.
 
