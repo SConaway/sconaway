@@ -29,7 +29,7 @@ Hi there, I'm Steven, an aspiring computer scientist and electrical engineer cur
 
 ### :chart_with_upwards_trend: What I do:
 
-I mainly work with JavaScript creating frontends and servers and Python and C++ for physical projects based on Raspberry Pi and Arduino.
+I mainly work with JavaScript creating frontends and servers and use Python and C++ for physical projects based on Raspberry Pi and Arduino.
 
 [![SConaway's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sconaway&count_private=true&show_icons=true&theme=dark)](https://github.com/sconaway)
 
