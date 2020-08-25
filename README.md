@@ -9,11 +9,25 @@ Hi there, I'm Steven, an aspiring computer scientist and electrical engineer cur
 
 [![SConaway's github stats](https://github-readme-stats.vercel.app/api?username=sconaway&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/sconaway)
 
-- 📚 Skills: JavaScript (ES2020), HTML5, CSS3, React, React Native, Python, Arduino
-- 🔧 Tools I use: VSCode, Git, iTerm
-- 📖 I'm currently learning: TypeScript
+### :books: Skills:
+- JavaScript (ES2020)
+- HTML5
+- CSS3
+- React
+- React Native
+- Python
+- Arduino
 
-📊 What I do:
+### :wrench: Tools I use: 
+- VSCode
+- Git / GitHub
+- iTerm 2
+
+### :book: What I'm Currently Learning: 
+- TypeScript
+- InfluxDB
+
+:chart_with_upwards_trend: What I do:
 
 I mainly work with JavaScript creating frontends and servers and Python and C++ for physical projects based on Raspberry Pi and Arduino.
 
@@ -21,5 +35,5 @@ I mainly work with JavaScript creating frontends and servers and Python and C++ 
 
 Check out my [resume at stevenconaway.me](https://stevenconaway.me) for more information.
 
-👈 Contact me: Don't hesitate to reach out!
+:point_left: Contact me: Don't hesitate to reach out!
 
