@@ -7,7 +7,7 @@
 
 Hi there, I'm Steven, an aspiring computer scientist and electrical engineer currently seeking opportunities.
 
-[![SConaway's github stats](https://github-readme-stats.vercel.app/api?username=sconaway&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/sconaway)
+[![SConaway's github stats](https://github-readme-stats.vercel.app/api?username=sconaway&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/SConaway)
 
 ### :books: Skills:
 - JavaScript (ES2020)
@@ -31,7 +31,7 @@ Hi there, I'm Steven, an aspiring computer scientist and electrical engineer cur
 
 I mainly work in JavaScript creating frontends (React + React Native) and servers (NodeJS / Express) and use Python and C++ for physical projects based on Raspberry Pi and Arduino.
 
-[![SConaway's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sconaway&count_private=true&show_icons=true&theme=dark)](https://github.com/sconaway)
+[![SConaway's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sconaway&count_private=true&show_icons=true&theme=dark)](https://github.com/SConaway)
 
 Check out my [resume at stevenconaway.me](https://stevenconaway.me) for more information.
 
