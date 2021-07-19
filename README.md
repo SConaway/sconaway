@@ -5,6 +5,8 @@
   <a href="mailto:sjconaway48@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=sjconaway48@gmail.com&color=red&logo=gmail&style=flat-square&logoColor=white" /></a>
 </p>
 
+![Metrics](https://github.com/sconaway/sconaway/blob/master/github-metrics.svg)
+
 Hi there, I’m Steven, a high-school-senior-soon-to-be-college-student and an aspiring computer scientist.
 
 [![SConaway's github stats](https://github-readme-stats.vercel.app/api?username=sconaway&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/SConaway)
