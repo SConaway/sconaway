@@ -14,6 +14,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.TOKEN }}
+          verify: yes
 
           # Options
           user: sconaway
@@ -30,12 +31,14 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_contributors: yes
+          plugin_contributors_contributions: yes
           plugin_contributors_head: master
           plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
           plugin_habits: yes
+          plugin_habits_chart: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -55,16 +58,17 @@ jobs:
           plugin_licenses_ratio: yes
           plugin_lines: yes
           plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_user: .user.login
+          plugin_music_limit: 5
+          plugin_music_mode: recent
+          plugin_music_played_at: yes
+          plugin_music_provider: spotify
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
+          plugin_music_user: s.conaway
           plugin_notable: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_user: .user.login
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_reactions: yes
@@ -83,5 +87,8 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 14
+          plugin_wakatime_token:  ${{ secrets.WAKATIME_TOKEN }}
           repositories: 200
           repositories_forks: yes
