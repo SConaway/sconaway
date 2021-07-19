@@ -4,8 +4,11 @@
   <a href="https://linkedin.com/in/steven-conaway"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=steven-conaway&color=blue&logo=linkedin&style=flat-square&logoColor=white" /></a>
   <a href="mailto:sjconaway48@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=sjconaway48@gmail.com&color=red&logo=gmail&style=flat-square&logoColor=white" /></a>
 </p>
+<div align="center">
 
-![Metrics](https://github.com/sconaway/sconaway/blob/master/github-metrics.svg)
+  ![Metrics](https://github.com/sconaway/sconaway/blob/master/github-metrics.svg)
+
+</div>
 
 Hi there, I’m Steven, a high-school-senior-soon-to-be-college-student and an aspiring computer scientist.
 
