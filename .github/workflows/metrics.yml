@@ -9,16 +9,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Set up secret file
-        env:
-          SPOTIFY_TOKEN: ${{ secrets.SPOTIFY_TOKEN }}
-        run: |
-          echo SPOTIFY_TOKEN=$SPOTIFY_TOKEN >> secrets.txt
-      - name: Run tmate
-        uses: mxschmitt/action-tmate@v2
-    
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
