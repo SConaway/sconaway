@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3541 Commits
+                            3540 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -488,8 +488,8 @@
                             <div class="label" title="JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.">json</div>
                             <div class="label" title="Front end is the programming and layout that people see and interact with.">front end</div>
                             <div class="label" title="Chrome extensions enable users to customize the Chrome browsing experience.">chrome extension</div>
-                            <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
-                            <div class="label" title="iOS, 3D, Kubernetes, macOS, React Native, MongoDB, npm, es6, Markdown, Express, Babel, Sass, Homebrew, Redux, ESLint, Emulator, PWA, Emoji">and 18 more...</div>
+                            <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
+                            <div class="label" title="Terminal, 3D, Kubernetes, macOS, React Native, MongoDB, npm, es6, Markdown, Express, Babel, Sass, Homebrew, Redux, ESLint, Emulator, PWA, Emoji">and 18 more...</div>
                         </div>
                     </section>
                 </div>
@@ -2205,7 +2205,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2022, 05:28:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 11:19:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
