@@ -10,12 +10,12 @@
 
 </div>
 
-Hi there, I’m Steven, a high-school-senior-soon-to-be-college-student and an aspiring computer scientist.
+Hi there, I’m Steven, a sophomore studying Computer Engineering at the University of Notre Dame
 
 [![SConaway's github stats](https://github-readme-stats.vercel.app/api?username=sconaway&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/SConaway)
 
 ### :books: Skills:
-- JavaScript (ES2020)
+- TypeScript / JavaScript (ES2020)
   - React
   - React Native
 - HTML5
@@ -31,15 +31,6 @@ Hi there, I’m Steven, a high-school-senior-soon-to-be-college-student and an a
 - iTerm 2
 - `zsh`
 
-### :book: What I'm Currently Learning: 
-- TypeScript
-- InfluxDB
-
-### :chart_with_upwards_trend: What I Do:
-
-I mainly work in JavaScript creating frontends (React + React Native) and servers (NodeJS / Express) and use Python and C++ for physical projects based on Raspberry Pi and Arduino. 
-
 Check out my [resume at stevenconaway.me](https://stevenconaway.me) for more information.
 
 :point_left: Contact me: Don't hesitate to reach out!
-
