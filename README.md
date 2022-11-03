@@ -12,8 +12,6 @@
 
 Hi there, I’m Steven, a sophomore studying Computer Engineering at the University of Notre Dame
 
-[![SConaway's github stats](https://github-readme-stats.vercel.app/api?username=sconaway&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/SConaway)
-
 ### :books: Skills:
 - TypeScript / JavaScript (ES2020)
   - React
