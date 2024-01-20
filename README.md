@@ -4,11 +4,11 @@
   <a href="https://linkedin.com/in/steven-conaway"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=steven-conaway&color=blue&logo=linkedin&style=flat-square&logoColor=white" /></a>
   <a href="mailto:me@stevenconaway.me"><img src="https://img.shields.io/static/v1?label=Email&message=me@stevenconaway.me&color=red&logo=gmail&style=flat-square&logoColor=white" /></a>
 </p>
-<div align="center">
+<!-- <div align="center">
 
   ![Metrics](https://github.com/sconaway/sconaway/blob/master/github-metrics.svg)
 
-</div>
+</div> -->
 
 Hi there, I’m Steven, a junior studying Computer Engineering at the University of Notre Dame.
 
@@ -18,10 +18,11 @@ Hi there, I’m Steven, a junior studying Computer Engineering at the University
   - React Native
 - HTML5
 - CSS3
-- MongoDB
 - Python
+- C
 - Arduino
-- Java
+- KiCad
+- Cadence Virtuoso
 
 ### :wrench: Tools I Use: 
 - VSCode
