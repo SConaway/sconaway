@@ -10,7 +10,7 @@
 
 </div> -->
 
-Hi there, I’m Steven, a junior studying Computer Engineering at the University of Notre Dame.
+Hi there, I’m Steven, a senior studying Computer Engineering at the University of Notre Dame.
 
 ### :books: Skills:
 - TypeScript / JavaScript (ES2020)
