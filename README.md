@@ -10,7 +10,11 @@
 
 </div> -->
 
-Hi there, I’m Steven, a senior studying Computer Engineering at the University of Notre Dame.
+Hi there, I’m Steven! 
+
+I just graduated from the University of Notre Dame with a degree in Computer Engineering. 
+
+Now, I'm working as an Application Engineer at Cadence Design Systems.
 
 ### :books: Skills:
 - TypeScript / JavaScript (ES2020)
